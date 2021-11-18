@@ -1,6 +1,6 @@
 # proxyFINDER
 
 ## Yapmanız gereken:
-  python main.py
+   python main.py
   
   
