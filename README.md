@@ -1,6 +1,11 @@
 # proxyFINDER
 
+Sizin için ücretsiz proxyler bulur...
+
 ### Yapmanız gereken:
-   python main.py
-  
-  
+    git clone https://github.com/ernakkc/proxyFINDER.git
+    cd proxyFINDER
+    pip install requirements.txt
+    python main.py
+    
+ 
